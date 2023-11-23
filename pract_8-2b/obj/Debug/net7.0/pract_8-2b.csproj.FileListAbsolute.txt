@@ -1,0 +1,4 @@
+C:\CS_pro\pract_8-2b\obj\Debug\net7.0\pract_8-2b.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS_pro\pract_8-2b\obj\Debug\net7.0\pract_8-2b.AssemblyInfoInputs.cache
+C:\CS_pro\pract_8-2b\obj\Debug\net7.0\pract_8-2b.AssemblyInfo.cs
+C:\CS_pro\pract_8-2b\obj\Debug\net7.0\pract_8-2b.csproj.CoreCompileInputs.cache
